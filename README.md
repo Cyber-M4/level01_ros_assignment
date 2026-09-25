@@ -669,27 +669,25 @@ The final system was successfully tested in Gazebo Classic and RViz2. The robot 
 
 ## Demonstration Video
 
-[![ROS 2 Autonomous Navigation Assignment](images/navigation_demo_thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/l4WzAzQvGUU?si=MSMofUL5z0Aud9e7))
-
-**YouTube:** [Watch the complete navigation demonstration]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/l4WzAzQvGUU?si=MSMofUL5z0Aud9e7))
+**YouTube:** [Watch the complete navigation demonstration]
+((https://youtu.be/l4WzAzQvGUU?si=MSMofUL5z0Aud9e7))
 
 ## Screenshots
 
 ### Starting
-
-![AMCL localization in RViz](images/rviz_localization.png)
-
-RViz showing the map, robot pose, laser scan, and AMCL localization.
+<img width="1850" height="1044" alt="Screenshot from 2026-09-24 16-47-43" src="https://github.com/user-attachments/assets/02fd3440-719d-49cb-8bd0-428ce94b52ea" />
 
 ### Nav2 Navigation
 
-![Nav2 navigation](<img width="1850" height="1044" alt="Screenshot from 2026-09-24 16-48-43" src="https://github.com/user-attachments/assets/5cc71f61-de87-4c22-b45b-10bb25b70329" />)
+![Nav2 navigation]
+<img width="1850" height="1044" alt="Screenshot from 2026-09-24 16-48-43" src="https://github.com/user-attachments/assets/5cc71f61-de87-4c22-b45b-10bb25b70329" />
 
 RViz showing the generated navigation path and the robot moving toward the commanded goal.
 
 ### Successful Navigation
 
-![Successful navigation](<img width="738" height="527" alt="Screenshot from 2026-09-24 16-54-44" src="https://github.com/user-attachments/assets/3b8ee12f-ab76-4ca2-87e4-0f3aa0eeb9ba" />)
+![Successful navigation]
+<img width="738" height="527" alt="Screenshot from 2026-09-24 16-54-44" src="https://github.com/user-attachments/assets/3b8ee12f-ab76-4ca2-87e4-0f3aa0eeb9ba" />
 
 Final robot position after successfully reaching the commanded navigation goal.
 <img width="1850" height="1044" alt="Screenshot from 2026-09-24 16-48-54" src="https://github.com/user-attachments/assets/f6a5a10d-e36d-4eb9-99dd-c84037bbad34" />
